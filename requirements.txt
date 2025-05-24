@@ -1,5 +1,4 @@
-python-dotenv
+pyTelegramBotAPI
 requests
-pytelegrambotapi
+python-dotenv
 mysql-connector-python
-Flask

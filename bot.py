@@ -984,12 +984,5 @@ def show_tournament_entries(message):
 
 if __name__ == "__main__":
     print("🤖 Бот запущен...")
-    # Убедитесь, что таблица `support_requests` существует в вашей БД с колонками:
-    # id INT AUTO_INCREMENT PRIMARY KEY,
-    # user_id BIGINT,
-    # username VARCHAR(255),
-    # message TEXT,
-    # created_at DATETIME,
-    # reply TEXT DEFAULT NULL,
-    # replied_at DATETIME DEFAULT NULL
+
     bot.infinity_polling()
