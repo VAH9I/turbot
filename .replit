@@ -1,0 +1,6 @@
+run = "python3 main.py"
+
+[interpreter]
+mode = "python3"
+
+[env]
